@@ -15,7 +15,7 @@ Work in progress...
  * https://docs.moodle.org/dev/Themes_overview
  * https://docs.moodle.org/dev/Page_API
 
-### related Api's
+### Related Moodle Api's
 
  * https://docs.moodle.org/dev/Output_API
  * https://docs.moodle.org/dev/Navigation_API
