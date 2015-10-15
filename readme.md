@@ -2,7 +2,7 @@
 
 A quick and **basic** boilerplate theme.
 
-Work in progress...
+Beta! Work in progress...
 
  * Clean Theme: https://docs.moodle.org/dev/Clean_theme
 
