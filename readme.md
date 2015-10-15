@@ -61,3 +61,7 @@ if ($PAGE->pagelayout == 'frontpage' || $PAGE->pagelayout == 'login') {
 }
 ?>
 ```
+
+## License
+
+* [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html)
