@@ -62,6 +62,12 @@ if ($PAGE->pagelayout == 'frontpage' || $PAGE->pagelayout == 'login') {
 ?>
 ```
 
+Add custom body class (layout file name)
+
+```
+<body <?php echo $OUTPUT->body_attributes(array('layout-'.basename(__FILE__, '.php'))); ?>>
+```
+
 ## License
 
 * [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html)
