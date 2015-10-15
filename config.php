@@ -37,7 +37,7 @@ $THEME->name = 'cleanchild';
 //////////////////////////////////
 //
 $THEME->doctype = 'html5';
-$THEME->parents = array('bootstrapbase');
+$THEME->parents = array('bootstrapbase', 'clean');
 $THEME->sheets = array('custom','cleanchild');
 $THEME->supportscssoptimisation = false;
 $THEME->yuicssmodules = array();
