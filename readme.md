@@ -1,6 +1,6 @@
 # Moodle Clean Child Theme
 
-A quick and **basic** boilerplate theme. For Moodle noobs like me.
+A quick and **basic** boilerplate theme.
 
 Work in progress...
 
@@ -40,7 +40,7 @@ require_once(dirname(__FILE__).'/inc/common-header.php');
 ?>
 ```
 
-Example custom file, however you should rather use the c=`config.php` for loading scripts and styles
+Example custom file, however you should rather use the `config.php` for loading scripts and styles
 
 ```
 <link rel="stylesheet" href="<?php echo $CFG->wwwroot;?>/theme/cleanchild/my-extra.css" type="text/css" media="screen" />
