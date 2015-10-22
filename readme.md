@@ -1,6 +1,6 @@
 # Moodle Clean Child Theme
 
-A quick and **basic** boilerplate theme.
+A **basic** boilerplate child theme, inherits [Moodle's "Clean"](https://docs.moodle.org/29/en/Standard_themes) standard theme.
 
 Beta! Work in progress...
 
@@ -70,4 +70,4 @@ Add custom body class (layout file name)
 
 ## License
 
-* [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html)
+* [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html), inherited from Clean/Moodle
