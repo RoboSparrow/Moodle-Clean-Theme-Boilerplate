@@ -41,7 +41,7 @@ Some neccessary adjustments in the  the `config.php`:
 
  * set `$THEME->name` to your sexact short name (i.e `$THEME->name = 'mytheme';`)
  * `$THEME->sheets = array('custom','cleanchild')`.
- $THEME->sheets defines the stylesheets loaded by your theme. The second entry refers to an empty css file `style/cleanchiild.css'` wich you can use for your custom styles.  Alternatively rename bots the css file and the array entry. Add any stylesheet you want by locating them into the `style` folder and appending them to the array. (rule: filename without extension)
+ $THEME->sheets defines the stylesheets loaded by your theme. The second entry refers to an empty css file `style/cleanchild.css'` wich you can use for your custom styles.  Alternatively rename both the css file and the array entry. Add any stylesheet you want by locating them into the `style` folder and appending them to the array. (rule: filename without extension)
  Leave the `clean` entry as the first element in this array to ensure a proper queuing of the loaded css files.
 
 The  `config.php` offers a lot more options. See the Moddle docs for this: https://docs.moodle.org/dev/Theme_config_file
