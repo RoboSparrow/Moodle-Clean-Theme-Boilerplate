@@ -55,7 +55,7 @@ The  `config.php` offers a lot more options. See the Moddle docs for this: https
   * browse to the `lang/en` folder. Rename the `theme_cleanchild.php` to `theme_<my-short-name>.php` (i.e.  `theme_mytheme.php`)
   * open the file and edit `$string['pluginname'] ` and `$string['choosereadme'] `. You can use markup in the latter.
 
-### 5. Install via Moddle Site Administration
+### 5. Install via Moodle Site Administration
 
  @TODO
 
