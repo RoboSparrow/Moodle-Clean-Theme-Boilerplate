@@ -50,6 +50,7 @@ Leave the `clean` entry as the first element in this array to ensure a proper qu
  * `$THEME->javascript = array()`: Include javascript files wich are to be loaded into the html '<head>'.  For instance you want to include jQuery. See above for rules
  * `$THEME->javascripts_footer = array('cleanchild');`: Footer Javascripts. An empty script is already loaded. See above for rules.
 The  `config.php` offers a lot more options who are not covered here.
+
 Moodle Docs: https://docs.moodle.org/dev/Theme_config_file
 
 ### 3. Version file
