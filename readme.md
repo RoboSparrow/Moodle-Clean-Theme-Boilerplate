@@ -1,7 +1,14 @@
 # Moodle "Clean" Child Theme
 
 A **basic** boilerplate child theme, inherits [Moodle's "Clean"](https://docs.moodle.org/29/en/Standard_themes) standard theme.
-This is a very similar approach to [cloning a theme](https://docs.moodle.org/dev/Cloning_a_theme) however it leaves the "clean" theme code untouched and inherits from it as a child theme. This makes it easier to keep up with upgrdes of both `bootstrapbase` and `clean`
+
+```
+bootstrapbase
+    |_ clean
+        |_<my_theme>
+```
+
+This is a very similar approach to [cloning a theme](https://docs.moodle.org/dev/Cloning_a_theme) however it leaves the "clean" theme code untouched and inherits from it as a child theme. This makes it easier to keep up with upgrades of both `bootstrapbase` and `clean`
 
 * Moodle Docs: https://docs.moodle.org/dev/Cloning_a_theme
 
