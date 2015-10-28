@@ -42,6 +42,8 @@ $THEME->supportscssoptimisation = false;
 $THEME->yuicssmodules = array();
 $THEME->enable_dock = true;
 $THEME->editor_sheets = array();
+$THEME->javascripts = array(); // Header scripts
+$THEME->javascripts_footer = array('cleanchild');  // Recommended:  This loads the file in the html footer
 
 $THEME->rendererfactory = 'theme_overridden_renderer_factory';
 $THEME->csspostprocess = 'theme_clean_process_css';
