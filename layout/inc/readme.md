@@ -1,1 +1,1 @@
-location for custom includes
+Suggested location for custom php includes
