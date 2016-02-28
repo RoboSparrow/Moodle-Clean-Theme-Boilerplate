@@ -34,7 +34,7 @@ Beta! Work in progress...
 ## Clean theme
 
  * https://docs.moodle.org/dev/Clean_theme
-
+ 
 ## Basic install this theme
 
 This basic walkthrough aims to users with some php experience but who are new to Moodle.
@@ -119,6 +119,11 @@ Add custom body class (layout file name)
 ```
 <body <?php echo $OUTPUT->body_attributes(array('layout-'.basename(__FILE__, '.php'))); ?>>
 ```
+
+## JavaCript development
+
+ * Style guide: https://docs.moodle.org/dev/JavaScript_guidelines
+ * Wrtiting JS modules: https://docs.moodle.org/dev/Javascript_Modules
 
 ## License
 
